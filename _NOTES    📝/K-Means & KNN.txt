@@ -1,0 +1,8 @@
+https://youtu.be/Gdw--tcJXb0?si=fYuo0ZEEtW-LtUC1
+
+
+Key Differences:
+
+=> K-Means is unsupervised (no labels), while KNN is supervised (requires labeled data).
+
+=> K-Means groups data, while KNN predicts labels or values.
